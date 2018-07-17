@@ -1,5 +1,5 @@
-># Welcome to RandyXu's zone.
-===
+# Welcome to RandyXu's zone.
+--
 This is my *to_do_list* :
 --
 - learn web dev
@@ -16,6 +16,6 @@ Notes :
 8/20 - 8/22 | course selection
 8/27 - 8/29 | draw the dorm
 
->## About me
+## About me
 - [Facebook](https://www.facebook.com/profile.php?id=100000602042351)
 - [Instagram](https://www.instagram.com/hamu1107/)
