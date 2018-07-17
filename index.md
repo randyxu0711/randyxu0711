@@ -11,7 +11,7 @@ This is my *to_do_list* :
 Notes :
 
   Date      |   Description
-----------------------------
+----------- | ----------------
 8/20 - 8/22 | course selection
 8/27 - 8/29 | draw the dorm
 
