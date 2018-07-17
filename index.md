@@ -4,9 +4,9 @@
 >- learn web dev
 >- make web crawler
 >- learn *sth* interesting :
->  1. boxing
->  2. movie stuff
->  3. animal behavior
+  1. boxing
+  2. movie stuff
+  3. animal behavior
 
 Notes :
 
