@@ -1,9 +1,9 @@
 # Welcome to RandyXu's zone.
 
-this is *my* **to_do_list** :
+this is my **to_do_list** :
 - learn web dev
 - make web crawler
-- learn sth i'm interesting
+- learn *sth* interesting :
 1. boxing
 2. movie stuff
 3. animal behavior
