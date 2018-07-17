@@ -1,6 +1,4 @@
-# Wellcome
-## to
-### my_page
+# Welcome to RandyXu's zone.
 
 this is *my* **to_do_list** :
 - learn web dev
@@ -12,4 +10,5 @@ this is *my* **to_do_list** :
 
 ## About me
 [Facebook](https://www.facebook.com/profile.php?id=100000602042351)
+
 [Instagram](https://www.instagram.com/hamu1107/)
