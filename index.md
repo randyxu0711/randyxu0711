@@ -1,6 +1,5 @@
 ># Welcome to RandyXu's zone.
 This is my *to_do_list* :
----
 - learn web dev
 - make web crawler
 - learn *sth* interesting :
