@@ -12,7 +12,6 @@ Notes :
 
   Date      |   Description
 ----------- | ----------------
-            |
 
 ## About me
 - [Facebook](https://www.facebook.com/profile.php?id=100000602042351)
