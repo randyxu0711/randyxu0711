@@ -12,8 +12,7 @@ Notes :
 
   Date      |   Description
 ----------- | ----------------
-8/20 - 8/22 | course selection
-8/27 - 8/29 | draw the dorm
+            |
 
 ## About me
 - [Facebook](https://www.facebook.com/profile.php?id=100000602042351)
