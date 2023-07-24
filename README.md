@@ -2,7 +2,7 @@
 - 👀 I’m interested in classic novels.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : randy970711@gmail.com | randy_xu@openfind.com.tw
+- 📫 How to reach me : randy970711@gmail.com
 
 <!---
 randyxu0711/randyxu0711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
