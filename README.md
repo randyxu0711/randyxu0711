@@ -1,9 +1,5 @@
 ![Randy Xu](banner.svg)
 
-I build software for domains that aren't software. Right now that means a critique
-companion for literary fiction, an agent that remembers what you were doing, and a
-bench tool for biologists.
-
 ![c](https://img.shields.io/badge/c-1f6f68?style=flat-square)
 ![python](https://img.shields.io/badge/python-1f6f68?style=flat-square)
 ![typescript](https://img.shields.io/badge/typescript-1f6f68?style=flat-square)
@@ -23,12 +19,12 @@ Mail system internals in C. Closed source.
 **[hyenovel](https://github.com/randyxu0711/hyenovel)** — A critique companion for
 literary short fiction. Reads a story, argues with you about it, and quotes the text
 for every claim it makes.
-<sub>Python · Claude Agent SDK · active</sub>
+<sub> Python · Claude Agent SDK · active </sub>
 
 **[hermes-agent](https://github.com/randyxu0711/hermes-agent)** — An agent that
 accumulates context as you work, instead of starting cold every session.
-<sub>TypeScript · active</sub>
+<sub> TypeScript · active </sub>
 
 **[wpSBOOT](https://github.com/randyxu0711/wpSBOOT)** — Bioinformatics tooling with a
 web front end.
-<sub>Perl · early research build</sub>
+<sub> Python · Perl </sub>
