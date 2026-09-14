@@ -18,12 +18,12 @@ Now building AI agents that keep context and show their work.
 
 ### Selected work
 
-#### [hyenovel](https://github.com/randyxu0711/hyenovel) &nbsp;`active`
+#### [hyenovel](https://github.com/randyxu0711/hyenovel)
 A critique companion for literary short fiction. It reads your story, argues with you
 about it, and backs up every claim with a quote from the text.
 <sub>Python · Claude Agent SDK</sub>
 
-#### [hermes-agent](https://github.com/randyxu0711/hermes-agent) &nbsp;`active`
+#### [hermes-agent](https://github.com/randyxu0711/hermes-agent)
 An agent that builds up context as you work, so every session picks up where the last
 one left off instead of starting cold.
 <sub>TypeScript</sub>
