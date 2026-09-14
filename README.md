@@ -1,30 +1,41 @@
+<div align="center">
+
 ![Randy Xu](banner.svg)
 
-![c](https://img.shields.io/badge/c-1f6f68?style=flat-square)
-![python](https://img.shields.io/badge/python-1f6f68?style=flat-square)
-![typescript](https://img.shields.io/badge/typescript-1f6f68?style=flat-square)
-![perl](https://img.shields.io/badge/perl-2b3138?style=flat-square)
-![javascript](https://img.shields.io/badge/javascript-2b3138?style=flat-square)
-![shell](https://img.shields.io/badge/shell-2b3138?style=flat-square)
+**Software engineer.** Spent 2021–2024 deep in mail-server internals in C.
+Now building AI agents that keep context and show their work.
+
+![C](https://img.shields.io/badge/C-1f6f68?style=flat-square)
+![Python](https://img.shields.io/badge/Python-1f6f68?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f6f68?style=flat-square)
+![Perl](https://img.shields.io/badge/Perl-2b3138?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-2b3138?style=flat-square)
+![Shell](https://img.shields.io/badge/Shell-2b3138?style=flat-square)
+
+</div>
+
+---
+
+### Selected work
+
+#### [hyenovel](https://github.com/randyxu0711/hyenovel) &nbsp;`active`
+A critique companion for literary short fiction. It reads your story, argues with you
+about it, and backs up every claim with a quote from the text.
+<sub>Python · Claude Agent SDK</sub>
+
+#### [hermes-agent](https://github.com/randyxu0711/hermes-agent) &nbsp;`active`
+An agent that builds up context as you work, so every session picks up where the last
+one left off instead of starting cold.
+<sub>TypeScript</sub>
+
+#### [wpSBOOT](https://github.com/randyxu0711/wpSBOOT)
+A web server for phylogenetics. It aligns your sequences with MAFFT, MUSCLE, ClustalW
+and T-Coffee, then merges the results into a Super-MSA for Weighted Partial Super Bootstrap.
+<sub>Python · Perl</sub>
 
 ---
 
 ### Experience
 
-**Openfind** — Software Engineer, 2021–2024
-Mail system internals in C. Closed source.
-
-### Work
-
-**[hyenovel](https://github.com/randyxu0711/hyenovel)** — A critique companion for
-literary short fiction. Reads a story, argues with you about it, and quotes the text
-for every claim it makes.
-<sub> Python · Claude Agent SDK · active </sub>
-
-**[hermes-agent](https://github.com/randyxu0711/hermes-agent)** — An agent that
-accumulates context as you work, instead of starting cold every session.
-<sub> TypeScript · active </sub>
-
-**[wpSBOOT](https://github.com/randyxu0711/wpSBOOT)** — Bioinformatics tooling with a
-web front end.
-<sub> Python · Perl </sub>
+**Software Engineer** · Openfind · 2021 – 2024
+Mail system internals in C. <sub>(closed source)</sub>
